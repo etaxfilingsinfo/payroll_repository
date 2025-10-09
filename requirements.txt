@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg   # if using PostgreSQL
+databases # optional for async support
+pydantic
